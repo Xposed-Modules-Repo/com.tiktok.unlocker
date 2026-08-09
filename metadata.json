@@ -1,0 +1,10 @@
+{
+  "id": "com.tiktok.unlocker",
+  "name": "GlobalKit",
+  "author": "xxyl-08",
+  "summary": "TikTok 国际版区域环境配置 LSPosed 模块",
+  "description": "伪装 SIM 国家码、网络国家码、运营商信息、系统语言、时区以及 GPS 经纬度环境配置。",
+  "version": "1.0.0",
+  "releaseTime": "2026-08-09T00:00:00Z",
+  "minApi": 27
+}
