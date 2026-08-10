@@ -1,13 +1,6 @@
+// ===== metadata.json（放 Xposed-Modules-Repo 仓库 com.tiktok.unlocker 目录）=====
 {
-  "id": "com.tiktok.unlocker",
-  "name": "GlobalKit",
-  "author": "xxyl-08",
-  "summary": "TikTok 国际版区域伪装模块 — SIM/网络/运营商/时区/GPS全伪装",
-  "description": "伪装 SIM 国家码、网络国家码、运营商、系统语言、时区、GPS 经纬度到目标区域。",
-  "version": "1.0.2",
-  "versionCode":103,
-  "releaseTime": "2025-07-18T00:00:00Z",
-  "minApi": 27,
-  "support": "https://t.me/+yBiOg-z4-Hk5N2Vh",
-  "apkUrl": "https://github.com/xxyl-08/GlobalKit/releases/download/v1.0.2/GlobalKit.apk"
+  "versionCode": 105,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/xxyl-08/Xposed-Modules-Repo/releases/download/105-1.0.3/gk.apk"
 }
