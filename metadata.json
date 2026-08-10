@@ -4,9 +4,9 @@
   "author": "xxyl-08",
   "summary": "TikTok 国际版区域伪装 LSPosed 模块",
   "description": "伪装 SIM 国家码、网络国家码、运营商信息、系统语言、时区以及 GPS 经纬度环境配置。",
-  "version": "1.0.0",
-  "versionCode": 101,
-  "releaseTime": "2026-08-09T00:00:00Z",
+  "version": "1.0.1",
+  "versionCode": 102,
+  "releaseTime": "2026-08-10T00:00:00Z",
   "minApi": 27,
-  "apkUrl": "https://github.com/Xposed-Modules-Repo/com.tiktok.unlocker/releases/download/101-1.0.0/gk.apk"
+  "apkUrl": "https://github.com/Xposed-Modules-Repo/com.tiktok.unlocker/releases/download/102-1.0.1/gk.apk"
 }
