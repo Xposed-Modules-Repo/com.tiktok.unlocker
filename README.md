@@ -18,7 +18,7 @@ TikTok 国际版区域伪装 LSPosed / LSPatch 模块，开箱即用。
 1. 安装 LSPosed 或 LSPatch
 2. 启用模块并勾选 TikTok
 3. 在模块设置中选择目标地区
-4. 清除 TikTok 数据后重新打开
+
 
 ## 下载
 
