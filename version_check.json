@@ -2,5 +2,8 @@
   "minSupportedVersionCode": 1,
   "blacklistedVersions": [],
   "forceUpdate": true,
-  "message": "当前版本已停用，请更新到最新版"
+  "message": "当前版本已停用，请更新到最新版",
+  "latestVersionCode": 107,
+  "latestVersionName": "1.0.5",
+  "updateUrl": "https://github.com/Xposed-Modules-Repo/com.tiktok.unlocker/releases/latest"
 }
